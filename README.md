@@ -45,6 +45,9 @@
   <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DeepEval-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ragas-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fine--Tuning-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Quantization-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-000000?style=for-the-badge" />
 </p>
 
 **Infrastructure & Databases**
@@ -64,12 +67,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Sid1396-byte">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sid1396-byte&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Sid1396-byte">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sid1396-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://readme-stats.lecoq.io/api?username=Sid1396-byte&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sid1396-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -80,5 +79,5 @@
   <a href="https://linkedin.com/in/siddhi-vinayak-tiwari-536879317" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:siddhivinayaktiwari1396@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://huggingface.co/vinayak1396" target="blank"><img align="center" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
-  <a href="https://youtube.com/@TechNirvana" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://youtube.com/@TechNirvana13" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
