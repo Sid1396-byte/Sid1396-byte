@@ -24,6 +24,24 @@
 
 ---
 
+💻 System Configuration
+Instead of a standard bio, here is my current development environment and focus area:
+
+json
+
+{
+  "developer": {
+    "name": "Siddhi Vinayak Tiwari",
+    "education": "B.Tech CS (AI/ML) @ OP Jindal University (2024-2028)",
+    "primary_focus": [
+      "Retrieval-Augmented Generation (RAG)",
+      "Agentic AI Workflows",
+      "LLM Observability & Evaluation"
+    ],
+    "current_status": "Building scalable AI systems and creating content for Tech Nirvana"
+  }
+}
+
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Frameworks**
