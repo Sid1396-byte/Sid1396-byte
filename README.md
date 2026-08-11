@@ -48,6 +48,11 @@
   <img src="https://img.shields.io/badge/Fine--Tuning-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Quantization-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Agentic%20AI-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Unsloth-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LoRA-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/vLLM-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GPTQ-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWQ-000000?style=for-the-badge" />
 </p>
 
 **Infrastructure & Databases**
