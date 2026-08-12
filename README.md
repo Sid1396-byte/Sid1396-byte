@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <em>I am a Computer Science (AI/ML) student specializing in Generative AI. I have hands-on experience with Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Machine Learning. I actively build intelligent AI systems utilizing modern frameworks.</em>
+  <em>Generative AI / LLM Engineer. Specialized in LangGraph multi-agent systems, model fine-tuning & quantization, RAG architectures, and DeepEval observability.</em>
 </p>
 
 ---
