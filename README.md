@@ -16,17 +16,33 @@
 
 ## 👨‍💻 About Me
 
-I am an AI & Systems Engineer focused on designing, optimizing, and deploying production-grade Generative AI architectures and autonomous systems. My work sits at the intersection of complex LLM orchestration, model optimization, and robust backend engineering.
+I am an AI & Systems Engineer specializing in the design, optimization, and deployment of production-grade Generative AI applications and autonomous workflows. My expertise covers the full lifecycle of modern AI systems—from agentic state machine design and multimodal ingestion to open-source model fine-tuning, quantization, and automated evaluation frameworks.
 
-I specialize in building end-to-end AI pipelines—ranging from multi-agent state machines and multimodal data ingestion engines to model fine-tuning, post-training quantization, and programmatic evaluation frameworks.
+---
 
-### 🛠️ Core Capabilities & Expertise
+### 🛠️ Core Engineering Capabilities
 
-* **🤖 Agentic AI & Systems Orchestration:** Designing deterministic state machines with **LangGraph** for Corrective RAG (CRAG) pipelines and multi-agent loops (Actor-Critic dynamics). Experienced in building real-time event streaming architectures using FastAPI and WebSockets alongside LLM-as-a-Judge security guardrails.
-* **🔮 Generative AI & Multimodal RAG:** Architecting dual-track ingestion engines using Vision models (Gemini Vision) and structured parsers (PyMuPDF, Unstructured API). Building hybrid retrieval pipelines leveraging dense vectors (Qdrant, Pinecone), BM25 sparse vectors, Reciprocal Rank Fusion (RRF), and Cohere v3 reranking.
-* **⚡ Model Fine-Tuning & Quantization:** Customizing open-source LLMs through Supervised Fine-Tuning (SFT) and Parameter-Efficient Fine-Tuning (PEFT/LoRA/QLoRA). Applying post-training quantization techniques to optimize memory usage, lower latency, and maximize inference efficiency for deployment.
-* **📊 LLM Evaluation & Observability:** Implementing automated benchmarking pipelines using **DeepEval**, **Ragas**, and **LangSmith** to measure and enforce Answer Relevancy, Fact Faithfulness, and Context Precision while actively mitigating hallucinations.
-* **💻 Backend & Infrastructure:** Engineering scalable backends using Python, FastAPI, Docker, and MongoDB. Building automated CI/CD pipelines with GitHub Actions and deploying services across AWS environments (EC2, S3, ECR, IAM).
+* **🤖 Agentic AI & Workflow Orchestration**
+  * **State Machines & Routing:** Architecting complex, deterministic workflows using **LangGraph** and **LangChain** for dynamic decision-making, query rewriting, and Corrective RAG (CRAG) execution.
+  * **Multi-Agent Systems:** Engineering iterative Actor-Critic loops where multiple agents collaborate, criticize, and refine outputs against strict quality rubrics.
+  * **Event Streaming & Security:** Implementing real-time event-driven architectures via WebSockets and FastAPI to stream agent reasoning paths, coupled with **LLM-as-a-Judge** security guardrails to intercept prompt injections, credential hallucinations, and system prompt leaks.
+
+* **🔮 Generative AI & Advanced RAG Systems**
+  * **Multimodal Ingestion Engine:** Designing dual-track ingestion pipelines that pair multimodal models (Gemini Vision) with specialized parsers (PyMuPDF, Unstructured API) to process complex tables, vector graphics, and raster documents.
+  * **Hybrid Search & Retrieval:** Building high-precision retrieval architectures that combine dense vector embeddings (Qdrant, Pinecone) with sparse vectors (FastEmbed BM25), utilizing Reciprocal Rank Fusion (RRF) and cross-encoder reranking (Cohere v3) to maximize context precision.
+
+* **⚡ Model Fine-Tuning & Quantization**
+  * **Domain Adaptation:** Fine-tuning open-source LLMs using Supervised Fine-Tuning (SFT) and Parameter-Efficient Fine-Tuning (PEFT/LoRA/QLoRA) to align models with specific technical tasks and formats.
+  * **Inference Optimization:** Applying post-training quantization techniques (4-bit/8-bit precision) to drastically lower VRAM consumption, optimize memory footprints, and improve generation throughput for low-latency serving.
+
+* **📊 LLM Evaluation & Observability**
+  * **Automated Benchmarking:** Programmatically measuring LLM pipeline outputs using **DeepEval**, **Ragas**, and **LangSmith** to monitor context recall, answer relevancy, and fact faithfulness.
+  * **System Reliability:** Implementing continuous observability pipelines to trace model decisions, measure hallucination rates, and enforce strict output constraints.
+
+* **💻 Backend, Infrastructure & Cloud**
+  * **Frameworks & Languages:** Python (Primary), JavaScript, FastAPI, PyTorch, TensorFlow, Scikit-learn.
+  * **DevOps & Cloud:** Dockerizing applications, building CI/CD pipelines with GitHub Actions, and deploying scalable workloads across AWS (EC2, S3, ECR, IAM).
+  * **Databases:** Managing vector data in Qdrant and Pinecone, along with document storage in MongoDB.
 
 ---
 
