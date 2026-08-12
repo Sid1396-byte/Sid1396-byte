@@ -14,13 +14,19 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science (AI/ML)** at OP Jindal University (2024–2028).
-- 🧠 Specializing in **Multimodal Data Processing, Real-time Event-Driven Architectures, and LLM Observability**.
-- 🎥 Content Creator at **Tech Nirvana (YouTube)**, sharing technology insights and learning journeys.
-- 💬 Ask me about **Python, LangChain, Transformers, and LLM Fine-tuning**.
-- 📫 How to reach me: **[siddhivinayaktiwari1396@gmail.com](mailto:siddhivinayaktiwari1396@gmail.com)**
+I am an AI & Systems Engineer focused on designing, optimizing, and deploying production-grade Generative AI architectures and autonomous systems. My work sits at the intersection of complex LLM orchestration, model optimization, and robust backend engineering.
+
+I specialize in building end-to-end AI pipelines—ranging from multi-agent state machines and multimodal data ingestion engines to model fine-tuning, post-training quantization, and programmatic evaluation frameworks.
+
+### 🛠️ Core Capabilities & Expertise
+
+* **🤖 Agentic AI & Systems Orchestration:** Designing deterministic state machines with **LangGraph** for Corrective RAG (CRAG) pipelines and multi-agent loops (Actor-Critic dynamics). Experienced in building real-time event streaming architectures using FastAPI and WebSockets alongside LLM-as-a-Judge security guardrails.
+* **🔮 Generative AI & Multimodal RAG:** Architecting dual-track ingestion engines using Vision models (Gemini Vision) and structured parsers (PyMuPDF, Unstructured API). Building hybrid retrieval pipelines leveraging dense vectors (Qdrant, Pinecone), BM25 sparse vectors, Reciprocal Rank Fusion (RRF), and Cohere v3 reranking.
+* **⚡ Model Fine-Tuning & Quantization:** Customizing open-source LLMs through Supervised Fine-Tuning (SFT) and Parameter-Efficient Fine-Tuning (PEFT/LoRA/QLoRA). Applying post-training quantization techniques to optimize memory usage, lower latency, and maximize inference efficiency for deployment.
+* **📊 LLM Evaluation & Observability:** Implementing automated benchmarking pipelines using **DeepEval**, **Ragas**, and **LangSmith** to measure and enforce Answer Relevancy, Fact Faithfulness, and Context Precision while actively mitigating hallucinations.
+* **💻 Backend & Infrastructure:** Engineering scalable backends using Python, FastAPI, Docker, and MongoDB. Building automated CI/CD pipelines with GitHub Actions and deploying services across AWS environments (EC2, S3, ECR, IAM).
 
 ---
 
